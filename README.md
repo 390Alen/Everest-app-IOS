@@ -1,4 +1,4 @@
-# Everest-app-IOS
+# Eyerest-app-IOS
 This project is designed to help users manage their work and rest cycles efficiently. It similar functions as a Pomodoro-style productivity tool that alternates between focused work sessions and short or long breaks.
 Features
 	•	Customizable work and rest intervals
